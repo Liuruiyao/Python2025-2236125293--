@@ -1,0 +1,9 @@
+title,company,salary_str,location,tags
+Python Developer,Tech Innovations Inc.,薪资面议,New York,"python pandas numpy sql api"
+Data Scientist,QuantumLeap Analytics,薪资面议,San Francisco,"python machine-learning scikit-learn tensorflow"
+Senior Python Developer,Cyber Systems,薪资面议,London,"python django flask docker aws"
+Software Engineer (Python),Matrix AI,薪资面议,New York,"python algorithms data-structures"
+Data Analyst,Insightful Data Corp,薪资面议,London,"python sql tableau pandas excel"
+Machine Learning Engineer,Visionary AI,薪资面议,San Francisco,"python pytorch tensorflow computer-vision"
+Backend Developer,ScaleFast Ltd.,薪资面议,Berlin,"python fastapi microservices postgresql"
+DevOps Engineer,CloudNet Solutions,薪资面议,Berlin,"python aws docker kubernetes terraform"
