@@ -80,4 +80,16 @@ pip install pandas numpy networkx scipy python-docx requests matplotlib
       * 点击 **“生成AI分析报告”** 按钮。
       * 程序将在项目根目录下生成一个名为 `AI智能职业分析报告_{生成日期}.docx` 的文件。
       * 该报告包含了您的个人档案、文字版市场总结、雷达图、技能网络图以及由本地AI生成的个性化职业规划建议。
-#%%
+
+
+#### 运行截图：
+![2efdb82586f8977a2f8ee5f52b04fd0](https://github.com/user-attachments/assets/b2b50526-ec3e-4ebb-8484-f854c4528504)
+
+
+![6091bb90228be19c8e1dacf11ea5d06](https://github.com/user-attachments/assets/0ccab6cc-f8d1-45ce-bfd2-88ef4f321745)
+![e716543077e5d993e3a784f65493322](https://github.com/user-attachments/assets/9f7fabd1-1923-4225-9640-5a3a15c002c8)
+![6ad05347804d906be3d3d2c14bea132](https://github.com/user-attachments/assets/87be3107-25b9-42fc-9ccd-0f84171f9223)
+
+
+
+
